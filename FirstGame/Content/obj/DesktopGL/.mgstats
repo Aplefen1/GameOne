@@ -1,0 +1,6 @@
+Source File,Dest File,Processor Type,Content Type,Source File Size,Dest File Size,Build Seconds
+"C:/Users/Euan/MonoGames/GameOne/FirstGame/Content/button-press.mp3","C:/Users/Euan/MonoGames/GameOne/FirstGame/Content/bin/DesktopGL/button-press.xnb","SoundEffectProcessor","SoundEffectContent",5178,25449,0.4389963
+"C:/Users/Euan/MonoGames/GameOne/FirstGame/Content/hit.mp3","C:/Users/Euan/MonoGames/GameOne/FirstGame/Content/bin/DesktopGL/hit.xnb","SoundEffectProcessor","SoundEffectContent",7212,52073,0.1403389
+"C:/Users/Euan/MonoGames/GameOne/FirstGame/Content/MyFont.spritefont","C:/Users/Euan/MonoGames/GameOne/FirstGame/Content/bin/DesktopGL/MyFont.xnb","FontDescriptionProcessor","SpriteFontContent",2008,21538,0.222183
+"C:/Users/Euan/MonoGames/GameOne/FirstGame/Content/score-reached.mp3","C:/Users/Euan/MonoGames/GameOne/FirstGame/Content/bin/DesktopGL/score-reached.xnb","SoundEffectProcessor","SoundEffectContent",9250,101737,0.1440368
+"C:/Users/Euan/MonoGames/GameOne/FirstGame/Content/TrexSpritesheet.png","C:/Users/Euan/MonoGames/GameOne/FirstGame/Content/bin/DesktopGL/TrexSpritesheet.xnb","TextureProcessor","Texture2DContent",2433,335461,0.1892603
